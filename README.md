@@ -1,8 +1,8 @@
 <h1>Hi, I'm Maite! <br/><a href="https://www.linkedin.com/in/maite-marageni/">Software Engineer</a>.</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2> 
 
-- <b>SANSA Kids Portal</b>
+- [SANSA Kids Portal](https://github.com/Maite-Machipi/SANSAKids)
 
 - <b>License Management dashboard </b>
 
