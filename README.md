@@ -4,7 +4,7 @@
 
 - [SANSA Kids Portal](https://github.com/Maite-Machipi/SANSAKids)
 
-- <b>License Management dashboard </b>
+- [License Management dashboard](https://github.com/Maite-Machipi/LicenseManagement)
 
 
 
